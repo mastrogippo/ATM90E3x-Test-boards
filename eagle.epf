@@ -1,0 +1,42 @@
+[Eagle]
+Version="09 03 01"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/DueCan.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/ST Microelctronics_By_element14_Batch_1.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/SparkFun.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/adafruit.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/resistor.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/supply1.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/eagle/EVSE/evse.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/AWJLEagleLib.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/E14_Arduino_revB_MIA.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/ELL-i-DigitalIC.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/Itead_BP_110825_MG.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/LPC1768.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/SIM800.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/bt_con-jst-xh.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/con-leotronics.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/con-lstb.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/con-molex-microsd.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/crystals.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/dcdc-pola.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/interquip.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/lpc177x-lpc178x.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/lpc1xxx-v6.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/stm32F.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/stm32f103.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/transceiverRS422.lbr"
+UsedLibrary="C:/Users/Gip/Documents/Elettronica/Eagle/eagle/LIB/fab.lbr"
+
+[Win_1]
+Type="Control Panel"
+Number=0
+
+[Desktop]
+Screen="5760 2160"
+Window="Win_1"
